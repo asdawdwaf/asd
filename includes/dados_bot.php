@@ -3,7 +3,7 @@
 define ('MODO_DESENVOLVEDOR', false); // no modo desenvolvedor só os adiministradores podem usar o bot
 
 // TOKEN DO BOT
-define ('TOKEN_BOT', '1944732317:AAFsHCxY0-6ewG4pWfWjqC9F9BhzGdwdwadwa');
+define ('TOKEN_BOT', '6108434633:AAE6lghIauAc5XAxh0BdpRVd9qfRFrTGFjM');
 
 // API KEY https://sms-activate.ru/en/api2
 define ('KEY_SMS', '5c1de8eAb07f157d09068wd254d1ad2w');
